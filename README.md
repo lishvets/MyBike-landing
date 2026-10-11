@@ -1,4 +1,37 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# My Bike Landing Page
+
+A clean, modern, and fully responsive landing page showcasing urban bikes. Designed with a mobile-first approach, it features a custom layout, smooth scrolling navigation, and an interactive mobile menu.
+
+## Live Preview
+[View Live Demo](https://lishvets.github.io/Kickstarter-landing/)
+
+## Design Reference
+- [Figma Design File]https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0-1&p=f&t=T22FRBBMr5PibLBo-0
+
+## Technologies Used
+- HTML5
+- CSS3 / SCSS
+- BEM methodology
+- Flexbox & CSS Grid
+- Git & GitHub Pages
+
+## Getting Started
+
+To get a local copy up and running, follow these simple steps:
+
+1. **Clone the repository:**
+git clone
+
+2. Install dependencies:
+npm install
+
+3. Run the project locally:
+npm start
+
+
+Features
+Mobile-first layout: Fully responsive design that looks great on mobile phones, tablets, and desktops.
+
+Fixed Navigation & Mobile Menu: Smooth transition mobile menu with page scroll locking.
+
+Clean Architecture: Organized using the BEM methodology for maintainable and scalable styles.
