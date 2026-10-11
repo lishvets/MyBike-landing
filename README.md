@@ -19,16 +19,17 @@ To get a local copy up and running, follow these simple steps:
 1. **Clone the repository:**
 git clone
 
-2. Install dependencies:
+2. **Install dependencies:**
 npm install
 
-3. Run the project locally:
+3. **Run the project locally:**
 npm start
 
 
-Features
-Mobile-first layout: Fully responsive design that looks great on mobile phones, tablets, and desktops.
+## Features
 
-Fixed Navigation & Mobile Menu: Smooth transition mobile menu with page scroll locking.
+**Mobile-first layout**: Fully responsive design that looks great on mobile phones, tablets, and desktops.
 
-Clean Architecture: Organized using the BEM methodology for maintainable and scalable styles.
+**Fixed Navigation & Mobile Menu:** Smooth transition mobile menu with page scroll locking.
+
+**Clean Architecture:** Organized using the BEM methodology for maintainable and scalable styles.
