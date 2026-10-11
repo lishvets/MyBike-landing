@@ -2,7 +2,8 @@
 
 A clean, modern, and fully responsive landing page showcasing urban bikes. Designed with a mobile-first approach, it features a custom layout, smooth scrolling navigation, and an interactive mobile menu.
 
-[Visit the Website] (https://github.com/lishvets/MyBike-landing) | [View Figma Design] (https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0-1&p=f&t=T22FRBBMr5PibLBo-0)
+[Visit the Website](https://lishvets.github.io/MyBike-landing) | [View Figma Design](https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0-1&p=f&t=T22FRBBMr5PibLBo-0)
+
 
 ## Technologies Used
 - HTML5
